@@ -33,8 +33,10 @@ In both cases, you will need the web address (URL) of the repo.
 - You'll be asked where to save the code on your computer (_don't select "My Drive"_)
 - You might be asked if you want to open the workspace - yes, click Open
 
-## Saving changes to your code (or submitting your work to Mr. Brash)
-
+## Saving changes to your code (or submitting your work to Mr. J)
+### Option :
+- Use GitHUb Desktop to clone your work to the local drive
+  
 Your code will save to your computer, but if you want to save it GitHub it's a two-step process.
 
 1. Go to the **Source Control** tab in VSCode
